@@ -889,7 +889,7 @@ Template variables (injected by the agent from questionnaire answers):
 | Classification | Description |
 |----------------|-------------|
 | Public | Freely shareable |
-| Internal | For CluePoints employees only |
+| Internal | For internal employees only |
 | Confidential | Need-to-know basis |
 | Restricted | Regulatory or contractual protection required |
 
@@ -1442,7 +1442,7 @@ This project is subject to **NIS2, SOC2, and ISO 27001**. As a contributor you m
 - Never commit secrets or credentials.
 - Run security scans before pushing (`npm audit` / `pip audit`).
 - Report any suspected security incident to {{owner.email}} immediately.
-- Complete the CluePoints security awareness training (ask your manager for the link).
+- Complete your organisation's security awareness training (ask your manager for the link).
 
 ---
 
@@ -1714,7 +1714,7 @@ Answer the questionnaire with these test values:
 - Project name: `test-governance-project`
 - Description: `A test project for validating the data-governance skill`
 - Owner name: `Alexis Vervondel`
-- Owner email: `alexis.vervondel@cluepoints.com`
+- Owner email: `owner@example.com`
 - Team: `Platform`
 - Approver: `Tech Lead`
 - Data classification: `internal`

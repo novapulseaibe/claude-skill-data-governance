@@ -37,7 +37,7 @@ The skill asks you 16 short questions (one at a time) covering ownership, data c
 |---|----------|---------------|
 | 1 | Project name | `billing-api` |
 | 2 | One-sentence description | `REST API that handles invoice generation and payment processing` |
-| 3 | Owner name & email | `Jane Doe / jane@cluepoints.com` |
+| 3 | Owner name & email | `Jane Doe / jane@example.com` |
 | 4 | Team | `Platform` |
 | 5 | Change approver | `Tech Lead` |
 | 6 | Data classification | `confidential` |
