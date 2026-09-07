@@ -137,11 +137,11 @@ The global score is a weighted average of 5 pillars:
 
 | Pillar | Weight | What it checks |
 |--------|--------|---------------|
-| **Gouvernance organisationnelle** | 30% | Owner defined, escalation path, risk management, data classification, incident reporting |
-| **Structuration documentaire** | 20% | README complete, CHANGELOG present, operating procedures documented |
-| **Gestion des données** | 20% | Data inventory, GDPR compliance, retention policy, encryption documented |
-| **Sécurité et accès** | 20% | No hardcoded secrets, auth documented, access control, SAST/dependency scanning |
-| **Culture et formation** | 10% | CONTRIBUTING.md, ONBOARDING.md, security training referenced |
+| **Organizational Governance** | 30% | Owner defined, escalation path, risk management, data classification, incident reporting |
+| **SDocument Structuring** | 20% | README complete, CHANGELOG present, operating procedures documented |
+| **Data Management** | 20% | Data inventory, GDPR compliance, retention policy, encryption documented |
+| **Security and Access** | 20% | No hardcoded secrets, auth documented, access control, SAST/dependency scanning |
+| **Culture and Training** | 10% | CONTRIBUTING.md, ONBOARDING.md, security training referenced |
 
 **Score thresholds:**
 - ✅ **≥ 80** — Compliant
